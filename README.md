@@ -9,8 +9,8 @@
 	Run client
 
 Books:
-    <add key = "Java 101" value="38.5"/>
-    <add key = "Cyber Security Handbook" value="72.99"/>
-    <add key = "Project Management" value="44.0"/>
-    <add key = "Advanced PHP" value="68.55"/>
-    <add key = "Beginning MySQL" value="29.25"/>
+    Java 101 value=38.5
+    Cyber Security Handbook value=72.99
+    Project Management value=44.0
+    Advanced PHP value=68.55
+    Beginning MySQL value=29.25
